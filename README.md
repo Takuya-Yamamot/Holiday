@@ -1,4 +1,4 @@
-# Holiliday function
+# Holiliday functions
 ====
 
 # Overview
